@@ -17,4 +17,4 @@ const growtopia = https.createServer(options, function(req, res) {
       res.end();
 }});
 
-growtopia.listen(443)
+growtopia.listen(443);
